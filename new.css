@@ -1,0 +1,26 @@
+*{
+    background-color: #222;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:#dc1ab5;
+}
+.name
+{
+    font-size: 8rem;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    filter: drop-shadow(10px 10px rgb(180, 224, 24));
+    color: rgb(116, 12, 181);
+}
+.banner
+{
+    background-image: URL(https://occ-0-4857-2164.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfKifMxxzLJt7q_b3OcVgOhuI5bHPnJyISd1MRVhZl1NeLid_TrwhdKtpseVDTC0p1nzXNfqMPw70o1tz7reLPjv3D5D3ASF1Sqd.jpg?r=51d&quot);
+    background-size: cover;
+    background-position: center center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    height: 648px;
+}
+
+.posters{display: flex;}
